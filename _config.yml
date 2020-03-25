@@ -34,25 +34,24 @@ youtube_username                          :
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                   :
 
-    - title                                : Visual Studio Code
-     description                           : Use Visual Studio Code on your iPad with an internet connection
-     fontawesome_icon_name                 : code
+features                                  :
+    
+  - title                                 : Visual Studio Code
+    description                           : Use Visual Studio Code on your iPad with an internet connection.
+    fontawesome_icon_name                 : code
 
-   - title                                 : Edit local files
-     description                           : Upload local files and edit them with the code editor.
-     fontawesome_icon_name                 : keyboard
+  - title                                 : Edit local files
+    description                           : Upload local files and edit them with the code editor.
+    fontawesome_icon_name                 : keyboard
 
-   - title                                 : Online
-     description                           : The app uses <a href="https://github.com/cdr/code-server">code-server</a>, a browser version of Visual Studio Code hosted by me so there is nothing to setup.
-     fontawesome_icon_name                 : globe
+  - title                                 : Online
+    description                           : The app uses <a href="https://github.com/cdr/code-server">code-server</a>, a browser version of Visual Studio Code hosted by me so there is nothing to setup.
+    fontawesome_icon_name                 : globe
 
-   - title                                 : Your own editor
-     description                           : Personalize the editor by installing extensions or run any Linux command with the terminal.
-     fontawesome_icon_name                 : terminal
-
-
+  - title                                 : Your own editor
+    description                           : Personalize the editor by installing extensions or run any Linux command with the terminal.
+    fontawesome_icon_name                 : terminal
 
 # Theme Settings
 topbar_color                              : "#000000"
