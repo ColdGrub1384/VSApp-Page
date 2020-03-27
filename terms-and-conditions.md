@@ -1,3 +1,8 @@
+---
+title: Terms and Conditions
+permalink: /terms-and-conditions/
+---
+
 # Terms and Conditions
 
 Last updated: March 27, 2020
