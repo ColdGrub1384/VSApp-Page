@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
+{% if page.url == "/privacy-policy" %}
+   {% include privacy-policy.md %}
+{% else if page.url == "/terms-of-use" %}
+   {% include terms-of-use.md %}
+{% else %}
+    
 {% include head.html %}
 
 <body>
@@ -64,4 +70,5 @@
             </div>
         </div>
 </body>
+{% endif %}
 </html>
